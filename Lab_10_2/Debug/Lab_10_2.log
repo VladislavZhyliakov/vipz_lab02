@@ -1,0 +1,5 @@
+﻿  lab10_2.c
+C:\Users\Владислав\source\repos\Lab_10_2\Lab_10_2\lab10_2.c(29,2): warning C4091: typedef : пропускается слева от "sesiya", когда ни одна переменная не объявлена
+C:\Users\Владислав\source\repos\Lab_10_2\Lab_10_2\lab10_2.c(38,43): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Владислав\source\repos\Lab_10_2\Lab_10_2\lab10_2.c(62,8): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab_10_2.vcxproj -> C:\Users\Владислав\source\repos\Lab_10_2\Debug\Lab_10_2.exe
